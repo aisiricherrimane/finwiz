@@ -1,0 +1,2 @@
+# finwiz
+Finwiz Autodownload
